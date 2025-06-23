@@ -3,8 +3,31 @@
   "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\LMS-Microservice\\UserService\\UserService\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{16450259-348A-4EE4-BA05-E5C3612C923D}|UserService.csproj|c:\\users\\user\\desktop\\lms-microservice\\userservice\\userservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{16450259-348A-4EE4-BA05-E5C3612C923D}|UserService.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{16450259-348A-4EE4-BA05-E5C3612C923D}|UserService.csproj|c:\\users\\user\\desktop\\lms-microservice\\userservice\\userservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{16450259-348A-4EE4-BA05-E5C3612C923D}|UserService.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8AF5DF8-F9D7-40B8-84DA-5393CE334CF0}|..\\Presentation\\Infrastructure.csproj|c:\\users\\user\\desktop\\lms-microservice\\userservice\\presentation\\data\\userdbcontext .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB4DCD13-2FE8-430E-83AC-B000B6CD2A65}|..\\Domain\\Domain.csproj|c:\\users\\user\\desktop\\lms-microservice\\userservice\\domain\\modles\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8AF5DF8-F9D7-40B8-84DA-5393CE334CF0}|..\\Presentation\\Infrastructure.csproj|c:\\users\\user\\desktop\\lms-microservice\\userservice\\presentation\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16450259-348A-4EE4-BA05-E5C3612C923D}|UserService.csproj|c:\\users\\user\\desktop\\lms-microservice\\userservice\\userservice\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16450259-348A-4EE4-BA05-E5C3612C923D}|UserService.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB4DCD13-2FE8-430E-83AC-B000B6CD2A65}|..\\Domain\\Domain.csproj|c:\\users\\user\\desktop\\lms-microservice\\userservice\\domain\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8AF5DF8-F9D7-40B8-84DA-5393CE334CF0}|..\\Presentation\\Infrastructure.csproj|c:\\users\\user\\desktop\\lms-microservice\\userservice\\presentation\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{16450259-348A-4EE4-BA05-E5C3612C923D}|UserService.csproj|c:\\users\\user\\desktop\\lms-microservice\\userservice\\userservice\\userservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -15,24 +38,7 @@
       "RelativeMoniker": "D:0:0:{16450259-348A-4EE4-BA05-E5C3612C923D}|UserService.csproj|solutionrelative:utilities\\jwttokenhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{16450259-348A-4EE4-BA05-E5C3612C923D}|UserService.csproj|c:\\users\\user\\desktop\\lms-microservice\\userservice\\userservice\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{16450259-348A-4EE4-BA05-E5C3612C923D}|UserService.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D8AF5DF8-F9D7-40B8-84DA-5393CE334CF0}|..\\Presentation\\Infrastructure.csproj|c:\\users\\user\\desktop\\lms-microservice\\userservice\\presentation\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D8AF5DF8-F9D7-40B8-84DA-5393CE334CF0}|..\\Presentation\\Infrastructure.csproj|c:\\users\\user\\desktop\\lms-microservice\\userservice\\presentation\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{16450259-348A-4EE4-BA05-E5C3612C923D}|UserService.csproj|c:\\users\\user\\desktop\\lms-microservice\\userservice\\userservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{16450259-348A-4EE4-BA05-E5C3612C923D}|UserService.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AB4DCD13-2FE8-430E-83AC-B000B6CD2A65}|..\\Domain\\Domain.csproj|c:\\users\\user\\desktop\\lms-microservice\\userservice\\domain\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AB4DCD13-2FE8-430E-83AC-B000B6CD2A65}|..\\Domain\\Domain.csproj|c:\\users\\user\\desktop\\lms-microservice\\userservice\\domain\\modles\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D8AF5DF8-F9D7-40B8-84DA-5393CE334CF0}|..\\Presentation\\Infrastructure.csproj|c:\\users\\user\\desktop\\lms-microservice\\userservice\\presentation\\migrations\\20250622024010_aswin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,85 +48,80 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "UserService",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\LMS-Microservice\\UserService\\UserService\\UserService.csproj",
-              "RelativeDocumentMoniker": "UserService.csproj",
-              "ToolTip": "C:\\Users\\user\\Desktop\\LMS-Microservice\\UserService\\UserService\\UserService.csproj",
-              "RelativeToolTip": "UserService.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-06-16T09:10:11.088Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\LMS-Microservice\\UserService\\UserService\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\LMS-Microservice\\UserService\\UserService\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAACsAAAAAAAAAAAAAADoAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\LMS-Microservice\\UserService\\Domain\\DTOs\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "..\\Domain\\DTOs\\LoginDTO.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\LMS-Microservice\\UserService\\Domain\\DTOs\\LoginDTO.cs",
+              "RelativeToolTip": "..\\Domain\\DTOs\\LoginDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-16T09:07:52.195Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "JwtTokenHelper.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\LMS-Microservice\\UserService\\UserService\\Utilities\\JwtTokenHelper.cs",
-              "RelativeDocumentMoniker": "Utilities\\JwtTokenHelper.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\LMS-Microservice\\UserService\\UserService\\Utilities\\JwtTokenHelper.cs",
-              "RelativeToolTip": "Utilities\\JwtTokenHelper.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-16T08:59:15.414Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-16T08:46:34.476Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "AuthController.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\LMS-Microservice\\UserService\\UserService\\Controllers\\AuthController.cs",
-              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\LMS-Microservice\\UserService\\UserService\\Controllers\\AuthController.cs",
-              "RelativeToolTip": "Controllers\\AuthController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAA3AAAAAAAAAA==",
+              "Title": "Users.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\LMS-Microservice\\UserService\\Domain\\Modles\\Users.cs",
+              "RelativeDocumentMoniker": "..\\Domain\\Modles\\Users.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\LMS-Microservice\\UserService\\Domain\\Modles\\Users.cs",
+              "RelativeToolTip": "..\\Domain\\Modles\\Users.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-16T08:57:47.775Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-16T08:45:42.988Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "IUserRepository.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\LMS-Microservice\\UserService\\Presentation\\Repositories\\IUserRepository.cs",
-              "RelativeDocumentMoniker": "..\\Presentation\\Repositories\\IUserRepository.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\LMS-Microservice\\UserService\\Presentation\\Repositories\\IUserRepository.cs",
-              "RelativeToolTip": "..\\Presentation\\Repositories\\IUserRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-16T09:04:27.995Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\LMS-Microservice\\UserService\\UserService\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
               "ToolTip": "C:\\Users\\user\\Desktop\\LMS-Microservice\\UserService\\UserService\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-06-16T09:00:22.753Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\LMS-Microservice\\UserService\\UserService\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\LMS-Microservice\\UserService\\UserService\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAYwEQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T09:07:52.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserDbContext .cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\LMS-Microservice\\UserService\\Presentation\\Data\\UserDbContext .cs",
+              "RelativeDocumentMoniker": "..\\Presentation\\Data\\UserDbContext .cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\LMS-Microservice\\UserService\\Presentation\\Data\\UserDbContext .cs",
+              "RelativeToolTip": "..\\Presentation\\Data\\UserDbContext .cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T02:35:32.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\LMS-Microservice\\UserService\\UserService\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\LMS-Microservice\\UserService\\UserService\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T08:57:47.775Z"
             },
             {
               "$type": "Document",
@@ -130,36 +131,57 @@
               "RelativeDocumentMoniker": "..\\Presentation\\Repositories\\UserRepository.cs",
               "ToolTip": "C:\\Users\\user\\Desktop\\LMS-Microservice\\UserService\\Presentation\\Repositories\\UserRepository.cs",
               "RelativeToolTip": "..\\Presentation\\Repositories\\UserRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA7AAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-16T08:47:53.931Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-16T08:47:53.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20250622024010_aswin.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\LMS-Microservice\\UserService\\Presentation\\Migrations\\20250622024010_aswin.cs",
+              "RelativeDocumentMoniker": "..\\Presentation\\Migrations\\20250622024010_aswin.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\LMS-Microservice\\UserService\\Presentation\\Migrations\\20250622024010_aswin.cs",
+              "RelativeToolTip": "..\\Presentation\\Migrations\\20250622024010_aswin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T02:40:10.794Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "LoginDTO.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\LMS-Microservice\\UserService\\Domain\\DTOs\\LoginDTO.cs",
-              "RelativeDocumentMoniker": "..\\Domain\\DTOs\\LoginDTO.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\LMS-Microservice\\UserService\\Domain\\DTOs\\LoginDTO.cs",
-              "RelativeToolTip": "..\\Domain\\DTOs\\LoginDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\LMS-Microservice\\UserService\\Presentation\\Repositories\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "..\\Presentation\\Repositories\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\LMS-Microservice\\UserService\\Presentation\\Repositories\\IUserRepository.cs",
+              "RelativeToolTip": "..\\Presentation\\Repositories\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-16T08:46:34.476Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-16T09:04:27.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "JwtTokenHelper.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\LMS-Microservice\\UserService\\UserService\\Utilities\\JwtTokenHelper.cs",
+              "RelativeDocumentMoniker": "Utilities\\JwtTokenHelper.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\LMS-Microservice\\UserService\\UserService\\Utilities\\JwtTokenHelper.cs",
+              "RelativeToolTip": "Utilities\\JwtTokenHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T08:59:15.414Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "Users.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\LMS-Microservice\\UserService\\Domain\\Modles\\Users.cs",
-              "RelativeDocumentMoniker": "..\\Domain\\Modles\\Users.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\LMS-Microservice\\UserService\\Domain\\Modles\\Users.cs",
-              "RelativeToolTip": "..\\Domain\\Modles\\Users.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-16T08:45:42.988Z",
-              "EditorCaption": ""
+              "Title": "UserService.csproj",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\LMS-Microservice\\UserService\\UserService\\UserService.csproj",
+              "RelativeDocumentMoniker": "UserService.csproj",
+              "ToolTip": "C:\\Users\\user\\Desktop\\LMS-Microservice\\UserService\\UserService\\UserService.csproj",
+              "RelativeToolTip": "UserService.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-16T09:10:11.088Z"
             }
           ]
         }

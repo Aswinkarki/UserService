@@ -1,49 +1,28 @@
-﻿using Dapper;
-using Domain.Modles;
-using Microsoft.Data.SqlClient;
-using System.Data;
-using Microsoft.Extensions.Configuration;
-
+﻿using Domain.Modles;
+using Microsoft.EntityFrameworkCore;
+using System.Threading.Tasks;
+using UserService.Data;
 
 namespace UserService.Repositories
 {
     public class UserRepository : IUserRepository
     {
-        private readonly string _connectionString;
+        private readonly UserDbContext _context;
 
-        public UserRepository(IConfiguration configuration)
+        public UserRepository(UserDbContext context)
         {
-            _connectionString = configuration.GetConnectionString("DefaultConnection");
+            _context = context;
         }
 
         public async Task AddUserAsync(Users user)
         {
-            using (var connection = new SqlConnection(_connectionString))
-            {
-                var parameters = new DynamicParameters();
-                parameters.Add("@Flag", "S"); // Flag for Sign-Up
-                parameters.Add("@Username", user.Username);
-                parameters.Add("@Password", user.Password);
-                parameters.Add("@Email", user.Email);
-                parameters.Add("@Role", user.Role);
-
-                await connection.ExecuteAsync("sp_UserOperations", parameters, commandType: CommandType.StoredProcedure);
-            }
+            _context.Users.Add(user);
+            await _context.SaveChangesAsync();
         }
 
         public async Task<Users> GetUserByUsernameAsync(string username)
         {
-            using (var connection = new SqlConnection(_connectionString))
-            {
-                var parameters = new DynamicParameters();
-                parameters.Add("@Flag", "L"); // Flag for Login
-                parameters.Add("@Username", username);
-
-                return await connection.QueryFirstOrDefaultAsync<Users>(
-                    "sp_UserOperations",
-                    parameters,
-                    commandType: CommandType.StoredProcedure);
-            }
+            return await _context.Users.FirstOrDefaultAsync(u => u.Username == username);
         }
     }
 }

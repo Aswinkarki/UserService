@@ -5,6 +5,7 @@ C:\Users\user\Desktop\LMS-Microservice\UserService\Domain\obj\Debug\net8.0\Domai
 C:\Users\user\Desktop\LMS-Microservice\UserService\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
 C:\Users\user\Desktop\LMS-Microservice\UserService\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
 C:\Users\user\Desktop\LMS-Microservice\UserService\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\LMS-Microservice\UserService\Domain\obj\Debug\net8.0\Domain.sourcelink.json
 C:\Users\user\Desktop\LMS-Microservice\UserService\Domain\obj\Debug\net8.0\Domain.dll
 C:\Users\user\Desktop\LMS-Microservice\UserService\Domain\obj\Debug\net8.0\refint\Domain.dll
 C:\Users\user\Desktop\LMS-Microservice\UserService\Domain\obj\Debug\net8.0\Domain.pdb
